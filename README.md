@@ -5,6 +5,7 @@ This software requires some time for working. When finished, it will be closed.
 ### Warning
 
 It generates an HTML file called "colors.html", his size is 2.09 GB.
+#### When you open it:
 
 Chrome consumes a lot of RAM and will be very slow.
 
